@@ -94,14 +94,13 @@ http://localhost:5173
 Open the URL in your browser and the project should be running.
 
 
+## 🔗 Relevant Links
 
-🔗 Relevant Links
-🌐 Live Demo:[ YOUR_LIVE_LINK](https://devstack-reactproject.netlify.app/
-)
-💻 GitHub:[ YOUR_GITHUB_REPOSITORY_LINK](https://github.com/TaheraScript/DevStack-React/)
-📦 React: https://react.dev/
-⚡ Vite: https://vite.dev/
-🎨 Tailwind CSS: https://tailwindcss.com/
-🌼 DaisyUI: https://daisyui.com/
-🔔 React-Toastify: https://fkhadra.github.io/react-toastify/
-👩‍💻 About the Project
+🌐 Live Demo: [Live Link](https://devstack-reactproject.netlify.app/) <br>
+💻 GitHub: [GitHub Repository](https://github.com/TaheraScript/DevStack-React/) <br>
+📦 React: [https://react.dev/](https://react.dev/) <br>
+⚡ Vite: [https://vite.dev/](https://vite.dev/) <br>
+🎨 Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/) <br>
+🌼 DaisyUI: [https://daisyui.com/](https://daisyui.com/) <br>
+🔔 React-Toastify: [https://fkhadra.github.io/react-toastify/](https://fkhadra.github.io/react-toastify/)
+
